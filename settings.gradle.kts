@@ -1,0 +1,3 @@
+
+rootProject.name = "TLC-KotlinLabs"
+
